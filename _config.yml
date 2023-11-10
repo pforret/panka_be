@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Anna Eszes
-  location: Grimbergen, Belgium
+  location: Belgium
   social: panka_be
   credits: 2023
 
@@ -50,7 +50,7 @@ address:
   - line: 1850 Grimbergen
 
 # Credits content
-credits: ''
+credits: '&copy; 2023 Anna Eszes'
 
 # Build settings
 markdown: kramdown
